@@ -5,6 +5,7 @@ Este proyecto es un scraper de frases célebres que extrae información de la we
 Proporciona recomendaciones sobre las frases del scraping básico mediante IA
 Añade nuevas frases mediante búsqueda global en Internet usando Agentes (Autogen de Microsoft)
 Front End basado en Streamlit
+La aplicación ha sido dockerizada (Dockerfile) y desplegada en Azure mediante servicio de contenedores.
 
 ## Características Principales
 - Scraping automatizado de frases célebres.
