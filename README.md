@@ -38,10 +38,8 @@ Front End basado en Streamlit
 ## Uso
 Para ejecutar el scraper:
 
-```python
-
-scraper = QuoteScraper("https://quotes.toscrape.com/")
-result_df = scraper.run()
+```
+streamlit run gui_scraper.py
 ```
 
 ## Estructura del Proyecto
