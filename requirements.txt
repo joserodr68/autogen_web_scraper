@@ -1,0 +1,11 @@
+pandas
+SQLAlchemy==2.0.31
+beautifulsoup4
+webdriver-manager
+langchain
+langchain-groq
+groq==0.9.0
+pyautogen[websurfer]
+python-dotenv
+streamlit
+openpyxl
