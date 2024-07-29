@@ -1,10 +1,9 @@
 # autogen_web_scraper
-Scrapes famous quotes from https://quotes.toscrape.com/ and globally from the Internet with Autogen
 
 ## Descripción
-Este proyecto es un scraper de frases célebres que extrae información de la web https://quotes.toscrape.com. Utiliza Selenium para navegar por el sitio web y recopila frases, autores, etiquetas y descripciones de autores, almacenándolos en una base de datos SQLite y un archivo Excel.
+Este proyecto es un scraper de frases célebres que extrae información de la web https://quotes.toscrape.com. Utiliza Beautifulsoup para navegar por el sitio web y recopila frases, autores, etiquetas y descripciones de autores, almacenándolos en una base de datos SQLite y un archivo Excel.
 Proporciona recomendaciones sobre las frases del scraping básico mediante IA
-Añade nuevas frases mediante búsqueda global en Internet usando agentes (Autogen de Microsoft)
+Añade nuevas frases mediante búsqueda global en Internet usando Agentes (Autogen de Microsoft)
 Front End basado en Streamlit
 
 ## Características Principales
